@@ -1,0 +1,13 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "notebookOutputEditor": true
+    },
+    "workbench.editor.closeOnFileDelete": false,
+    "workbench.editor.customLabels.patterns": {
+        "s": "1"
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true
+}
